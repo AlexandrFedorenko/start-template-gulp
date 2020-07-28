@@ -36,8 +36,8 @@
 >>>		/_normalize.scss
 >>>		/_variables.scss
 >>>		/style.scss
->>	/_header.html
->>	/index.html
+>>.	/_header.html
+>>.	/index.html
 >./gulpfile.js  
 >./package.json  
 >./README.md
@@ -53,8 +53,7 @@
 * __Facebook:__ https://www.facebook.com/profile.php?id=100011030207522
 * __Email:__ alexandrfedorenkoooo@gmai.com
 
-
-##ES
+## ES
 
 # Building a Gulp 4 Project, Version 1
 
